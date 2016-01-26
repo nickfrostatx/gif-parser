@@ -1,0 +1,4 @@
+*.o
+BitUnpacker.c
+CodeSet.c
+LZWExp.c
